@@ -8,7 +8,6 @@ Will include custom built Grunt Plugin which can make use of Apigee Management A
 ## TL;DR
 [Follow these directions to enable API Proxy Bundle deployment with Grunt.js](https://github.com/apigeecs/apigee-deploy-grunt-plugin/tree/master/apigee-deploy-grunt-plugin)
 
-
 ## Basic Ideas
 
    - Should extend Java provided in io.apigee.buildTools.enterprise4g.utils
